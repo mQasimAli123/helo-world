@@ -1,2 +1,1 @@
 # MyProject Documentation
-## Feature Updates
